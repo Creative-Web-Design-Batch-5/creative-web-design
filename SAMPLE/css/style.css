@@ -232,7 +232,7 @@ h2 {
 }
 .testimonial-content {
   background-color: #f2f2f2;
-  height: 500px;
+  height: 480px;
   max-width: 260px;
   margin: 0 auto 30px;
 }
@@ -240,9 +240,10 @@ h2 {
     padding: 10px 20px;
     text-align: left;
 }
+
 .content-link {
     background: #fff none repeat scroll 0 0;
-    border: 1px solid #cdcdcd;
+    border: 1px solid #75b3bb;
     border-radius: 10px;
     color: #666;
     display: inline-block;
@@ -579,6 +580,21 @@ input {
     padding-left: 0;
   }
 }
+
+
+
+
+/****services****/
+.servicesp p{
+  text-align: center;
+}
+
+.servicesp img {
+  border-radius: 10px 10px 0 0;
+}
+
+
+
 
 /*    Wide Mobile Layout: 480px. */
 
