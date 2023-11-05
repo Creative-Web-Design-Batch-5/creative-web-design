@@ -15,6 +15,9 @@ iframe {
 
 */
 
+
+
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;500;600;700;900&display=swap');
 
 * {
@@ -672,4 +675,13 @@ input {
 
 .feature-content-link:hover {
   background-color: #1157d2; 
+}
+
+.gradient-text {
+  background: linear-gradient(45deg, #B16CEA, #FF5E69, #FF8A56, #FFA84B);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  display: inline;
+
 }
